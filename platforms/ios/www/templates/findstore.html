@@ -1,0 +1,26 @@
+<ion-view view-title="Find Store">
+    <div class='bar bar-subheader item-input-inset bar-light'>
+        <button class="button button-clear" ng-click="clearCityInput()">
+            <i class="icon ion-ios-close"></i>
+        </button>
+        <label class="item-input-wrapper">
+            <i class="icon ion-search placeholder-icon"></i>
+            <input type="search" placeholder="Search for City" ng-model="store.city">
+        </label>
+
+        <button class="button button-calm" ng-click="getStoresData()">
+            <i class="icon ion-search"></i>
+        </button>
+    </div>
+    <ion-content padding="true" class="has-subheader">
+        <ion-list>
+            <ion-item class=" item-text-wrap" ng-repeat="store in stores">
+                <h3 class="list-header">{{ store.name }}</h3>
+                <p>{{ store.address }}, {{store.city}}, {{store.region}}, {{store.country}}, {{store.postalCode}}</p>
+                <p></p>
+                <p>Open Hours: </p>
+                <p>{{ store.hours }}</p>
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>

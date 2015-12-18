@@ -1,0 +1,278 @@
+2015-12-18 13:58:13.430 ShopChristmas[41609:643467] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/0061E9F7-8B62-4DF4-AA8C-98E35D583425/Library/Cookies/Cookies.binarycookies
+2015-12-18 13:58:13.517 ShopChristmas[41609:643467] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 13:58:13.517 ShopChristmas[41609:643467] Multi-tasking -> Device: YES, App: YES
+2015-12-18 13:58:13.519 ShopChristmas[41609:643467] Unlimited access to network resources
+2015-12-18 13:58:13.809 ShopChristmas[41609:643467] Resetting plugins due to page load.
+2015-12-18 13:58:13.946 ShopChristmas[41609:643467] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/6360FDE9-1A62-4676-9283-AFF8C730F7EC/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:03:19.315 ShopChristmas[42007:646127] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/368A78ED-E619-4B53-92AB-B26331428BA0/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:03:19.363 ShopChristmas[42007:646127] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:03:19.363 ShopChristmas[42007:646127] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:03:19.365 ShopChristmas[42007:646127] Unlimited access to network resources
+2015-12-18 14:03:19.476 ShopChristmas[42007:646127] Resetting plugins due to page load.
+2015-12-18 14:03:19.614 ShopChristmas[42007:646127] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/72DCCEE9-D6DD-4637-BDB4-86D1CA5CD726/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:04:47.985 ShopChristmas[42318:647039] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/5651A6FD-4B47-4FEE-AFC7-2B7E2498B925/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:04:48.032 ShopChristmas[42318:647039] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:04:48.032 ShopChristmas[42318:647039] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:04:48.033 ShopChristmas[42318:647039] Unlimited access to network resources
+2015-12-18 14:04:48.145 ShopChristmas[42318:647039] Resetting plugins due to page load.
+2015-12-18 14:04:48.273 ShopChristmas[42318:647039] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/ED5A9236-C157-4CD7-8C79-9D3104BBCEE6/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:13:11.239 ShopChristmas[42824:651149] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/FCB36C82-CDB0-47A0-80B4-1D3D8E9BDABD/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:13:11.292 ShopChristmas[42824:651149] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:13:11.293 ShopChristmas[42824:651149] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:13:11.294 ShopChristmas[42824:651149] Unlimited access to network resources
+2015-12-18 14:13:11.401 ShopChristmas[42824:651149] Resetting plugins due to page load.
+2015-12-18 14:13:11.529 ShopChristmas[42824:651149] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/3A928EB2-6039-4632-9801-33964F8BB29E/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:14:59.654 ShopChristmas[43142:652182] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/3BD98C4A-08CE-4E0B-A59C-BF2FBD02244C/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:14:59.700 ShopChristmas[43142:652182] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:14:59.701 ShopChristmas[43142:652182] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:14:59.702 ShopChristmas[43142:652182] Unlimited access to network resources
+2015-12-18 14:14:59.820 ShopChristmas[43142:652182] Resetting plugins due to page load.
+2015-12-18 14:14:59.965 ShopChristmas[43142:652182] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/126B17A9-2D6B-4E29-8E22-993DE20F8761/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:15:44.288 ShopChristmas[43436:652900] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/9151FEF2-AE2A-4C7C-BDA4-247C2F83393E/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:15:44.334 ShopChristmas[43436:652900] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:15:44.335 ShopChristmas[43436:652900] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:15:44.336 ShopChristmas[43436:652900] Unlimited access to network resources
+2015-12-18 14:15:44.449 ShopChristmas[43436:652900] Resetting plugins due to page load.
+2015-12-18 14:15:44.579 ShopChristmas[43436:652900] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/C510A4C7-B5F5-44F6-A207-223156DD7286/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:15:59.958 ShopChristmas[43720:653496] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/49E37012-8A81-4FA9-A099-C6AB8C871A81/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:16:00.011 ShopChristmas[43720:653496] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:16:00.012 ShopChristmas[43720:653496] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:16:00.013 ShopChristmas[43720:653496] Unlimited access to network resources
+2015-12-18 14:16:00.129 ShopChristmas[43720:653496] Resetting plugins due to page load.
+2015-12-18 14:16:00.265 ShopChristmas[43720:653496] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/7ADFD37C-138A-4029-9F54-327DCBCAD094/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:16:36.343 ShopChristmas[44011:654161] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/0A663E63-86A1-4F23-841B-817A9021B62F/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:16:36.390 ShopChristmas[44011:654161] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:16:36.390 ShopChristmas[44011:654161] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:16:36.391 ShopChristmas[44011:654161] Unlimited access to network resources
+2015-12-18 14:16:36.504 ShopChristmas[44011:654161] Resetting plugins due to page load.
+2015-12-18 14:16:36.631 ShopChristmas[44011:654161] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/F299C851-A4F4-4652-BB29-3F95E5D52D4C/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:19:54.007 ShopChristmas[44359:656249] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/0C22A427-4CC2-4882-A771-DCD64F87B02F/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:19:54.058 ShopChristmas[44359:656249] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:19:54.059 ShopChristmas[44359:656249] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:19:54.060 ShopChristmas[44359:656249] Unlimited access to network resources
+2015-12-18 14:19:54.171 ShopChristmas[44359:656249] Resetting plugins due to page load.
+2015-12-18 14:19:54.307 ShopChristmas[44359:656249] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/D41B33CD-1199-4BB5-8957-BF9A0BD187C6/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:20:28.621 ShopChristmas[44650:657073] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/1F4B8A63-0125-4738-A789-D9FCA459078C/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:20:28.673 ShopChristmas[44650:657073] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:20:28.673 ShopChristmas[44650:657073] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:20:28.674 ShopChristmas[44650:657073] Unlimited access to network resources
+2015-12-18 14:20:28.782 ShopChristmas[44650:657073] Resetting plugins due to page load.
+2015-12-18 14:20:28.918 ShopChristmas[44650:657073] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/E6152A2B-532E-4E48-A1A7-2BBFC19575A0/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:21:03.658 ShopChristmas[44940:657932] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/264D7B0A-8508-4120-B238-F248908A5BD2/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:21:03.711 ShopChristmas[44940:657932] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:21:03.711 ShopChristmas[44940:657932] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:21:03.712 ShopChristmas[44940:657932] Unlimited access to network resources
+2015-12-18 14:21:03.824 ShopChristmas[44940:657932] Resetting plugins due to page load.
+2015-12-18 14:21:03.957 ShopChristmas[44940:657932] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/B2AB860F-6428-47BA-9E25-B7528BBB73BF/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:22:16.714 ShopChristmas[45244:659067] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/F5422EF4-0740-4BD8-8A62-0975537B117A/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:22:16.767 ShopChristmas[45244:659067] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:22:16.767 ShopChristmas[45244:659067] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:22:16.768 ShopChristmas[45244:659067] Unlimited access to network resources
+2015-12-18 14:22:16.879 ShopChristmas[45244:659067] Resetting plugins due to page load.
+2015-12-18 14:22:17.016 ShopChristmas[45244:659067] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/D63ABF9E-13E3-4290-99F0-21942593FC63/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:32:04.162 ShopChristmas[45756:670734] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/995E33C0-9485-46A1-9487-4025FFAA0235/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:32:04.229 ShopChristmas[45756:670734] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:32:04.229 ShopChristmas[45756:670734] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:32:04.230 ShopChristmas[45756:670734] Unlimited access to network resources
+2015-12-18 14:32:04.332 ShopChristmas[45756:670734] Resetting plugins due to page load.
+2015-12-18 14:32:04.463 ShopChristmas[45756:670734] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/555EFED4-511A-4571-8EA2-145E85138F8D/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:33:17.744 ShopChristmas[46061:672087] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/614432F9-BA67-43AB-9139-01C5E1D1E2DE/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:33:17.798 ShopChristmas[46061:672087] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:33:17.798 ShopChristmas[46061:672087] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:33:17.799 ShopChristmas[46061:672087] Unlimited access to network resources
+2015-12-18 14:33:17.912 ShopChristmas[46061:672087] Resetting plugins due to page load.
+2015-12-18 14:33:18.048 ShopChristmas[46061:672087] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/4B768262-4F34-408C-9337-87D95ECA476D/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:33:56.689 ShopChristmas[46353:672951] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/52633011-BE2C-417C-810C-4DCEC2E56D39/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:33:56.736 ShopChristmas[46353:672951] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:33:56.736 ShopChristmas[46353:672951] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:33:56.737 ShopChristmas[46353:672951] Unlimited access to network resources
+2015-12-18 14:33:56.852 ShopChristmas[46353:672951] Resetting plugins due to page load.
+2015-12-18 14:33:56.983 ShopChristmas[46353:672951] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/00011C38-10B5-4EB5-80C1-97F8616FC000/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:38:16.426 ShopChristmas[46722:674715] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/85FFD2A6-AC76-439B-875E-DC4D2CCF4A2F/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:38:16.476 ShopChristmas[46722:674715] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:38:16.476 ShopChristmas[46722:674715] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:38:16.477 ShopChristmas[46722:674715] Unlimited access to network resources
+2015-12-18 14:38:16.590 ShopChristmas[46722:674715] Resetting plugins due to page load.
+2015-12-18 14:38:16.721 ShopChristmas[46722:674715] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/B1B63BEB-22E1-4F36-A2A3-80C2EE7317E3/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:40:07.481 ShopChristmas[47038:675759] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/8CA99CA9-5222-4DD0-B4B6-E66C74BEC8C0/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:40:07.527 ShopChristmas[47038:675759] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:40:07.527 ShopChristmas[47038:675759] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:40:07.528 ShopChristmas[47038:675759] Unlimited access to network resources
+2015-12-18 14:40:07.643 ShopChristmas[47038:675759] Resetting plugins due to page load.
+2015-12-18 14:40:07.778 ShopChristmas[47038:675759] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/E7EE8C47-1CD5-45AF-9404-AF2965A82CF0/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:40:50.981 ShopChristmas[47335:676605] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/5BB38B86-7DC2-4591-8ED1-414FCF1CA35B/Library/Cookies/Cookies.binarycookies
+2015-12-18 14:40:51.029 ShopChristmas[47335:676605] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 14:40:51.029 ShopChristmas[47335:676605] Multi-tasking -> Device: YES, App: YES
+2015-12-18 14:40:51.031 ShopChristmas[47335:676605] Unlimited access to network resources
+2015-12-18 14:40:51.145 ShopChristmas[47335:676605] Resetting plugins due to page load.
+2015-12-18 14:40:51.281 ShopChristmas[47335:676605] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/2DB5C5CC-459E-4609-9435-0F6822C50843/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 14:49:51.707 ShopChristmas[47335:676605] Failed to load webpage with error: The URL can’t be shown
+2015-12-18 14:49:52.684 ShopChristmas[47335:676605] Failed to load webpage with error: The URL can’t be shown
+2015-12-18 15:19:11.794 ShopChristmas[48430:687827] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/08003F6B-8A15-43F5-BAD8-62E49CB7F6A4/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:19:11.862 ShopChristmas[48430:687827] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:19:11.862 ShopChristmas[48430:687827] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:19:11.863 ShopChristmas[48430:687827] Unlimited access to network resources
+2015-12-18 15:19:11.986 ShopChristmas[48430:687827] Resetting plugins due to page load.
+2015-12-18 15:19:12.123 ShopChristmas[48430:687827] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/349C6150-65B0-41A6-A1D4-4F40164D0C34/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 15:29:58.696 ShopChristmas[48940:691387] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/919017CE-6E0D-40B3-89A5-188928461ADB/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:29:58.748 ShopChristmas[48940:691387] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:29:58.748 ShopChristmas[48940:691387] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:29:58.749 ShopChristmas[48940:691387] Unlimited access to network resources
+2015-12-18 15:29:58.858 ShopChristmas[48940:691387] Resetting plugins due to page load.
+2015-12-18 15:29:58.986 ShopChristmas[48940:691387] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/60B199E7-F3F4-41F5-B61C-E2915FB0B5CE/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 15:32:59.823 ShopChristmas[49289:693105] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/4FE2291C-4107-4B29-BABA-1A6C17BB94FC/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:32:59.869 ShopChristmas[49289:693105] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:32:59.869 ShopChristmas[49289:693105] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:32:59.870 ShopChristmas[49289:693105] Unlimited access to network resources
+2015-12-18 15:32:59.986 ShopChristmas[49289:693105] Resetting plugins due to page load.
+2015-12-18 15:33:00.123 ShopChristmas[49289:693105] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/DDCD720D-4757-495A-AE3D-4DF4B5C0AEC7/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 15:34:02.783 ShopChristmas[49597:694044] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/F7FA093F-26BA-42ED-83CE-F2AF0F7DFD8B/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:34:02.833 ShopChristmas[49597:694044] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:34:02.834 ShopChristmas[49597:694044] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:34:02.835 ShopChristmas[49597:694044] Unlimited access to network resources
+2015-12-18 15:34:02.949 ShopChristmas[49597:694044] Resetting plugins due to page load.
+2015-12-18 15:34:03.074 ShopChristmas[49597:694044] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/DDFA5DB9-3CEA-4A31-9BF7-CE8089CBF237/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 15:34:32.782 ShopChristmas[49888:694754] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/F3F3BE12-BBE8-4855-87C0-2F4925B27E72/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:34:32.831 ShopChristmas[49888:694754] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:34:32.831 ShopChristmas[49888:694754] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:34:32.832 ShopChristmas[49888:694754] Unlimited access to network resources
+2015-12-18 15:34:32.941 ShopChristmas[49888:694754] Resetting plugins due to page load.
+2015-12-18 15:34:33.070 ShopChristmas[49888:694754] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/7E3C9429-CF93-4FF6-A6E7-8B5551D9DE31/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 15:38:52.430 ShopChristmas[50259:696284] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/01A5C14D-B02C-4BCA-83CA-5E33DA3AE6C4/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:38:52.477 ShopChristmas[50259:696284] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:38:52.478 ShopChristmas[50259:696284] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:38:52.479 ShopChristmas[50259:696284] Unlimited access to network resources
+2015-12-18 15:38:52.587 ShopChristmas[50259:696284] Resetting plugins due to page load.
+2015-12-18 15:38:52.717 ShopChristmas[50259:696284] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/A4C4ABBF-3AB2-49A8-A2B4-139C39398573/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 15:43:01.913 ShopChristmas[50628:698020] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/5157DC5A-6B7E-419B-8EB4-D4C639C92D80/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:43:01.960 ShopChristmas[50628:698020] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:43:01.960 ShopChristmas[50628:698020] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:43:01.961 ShopChristmas[50628:698020] Unlimited access to network resources
+2015-12-18 15:43:02.075 ShopChristmas[50628:698020] Resetting plugins due to page load.
+2015-12-18 15:43:02.207 ShopChristmas[50628:698020] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/9C007DE7-A3B5-431E-9699-BD6194EA6EDE/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 15:51:54.635 ShopChristmas[51111:701419] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/A0F7D370-83BA-4780-B1D2-78983F88B6DB/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:51:54.681 ShopChristmas[51111:701419] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:51:54.682 ShopChristmas[51111:701419] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:51:54.683 ShopChristmas[51111:701419] Unlimited access to network resources
+2015-12-18 15:51:54.795 ShopChristmas[51111:701419] Resetting plugins due to page load.
+2015-12-18 15:51:54.922 ShopChristmas[51111:701419] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/FD01008D-55EE-44AE-A44E-04F01D2D3A0F/ShopChristmas.app/www/index.html#/login
+2015-12-18 15:52:04.339 ShopChristmas[51393:701916] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/1B06BD04-9593-44F9-B1FF-96BC0F0D739B/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:52:04.386 ShopChristmas[51393:701916] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:52:04.387 ShopChristmas[51393:701916] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:52:04.388 ShopChristmas[51393:701916] Unlimited access to network resources
+2015-12-18 15:52:04.500 ShopChristmas[51393:701916] Resetting plugins due to page load.
+2015-12-18 15:52:04.632 ShopChristmas[51393:701916] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/BE84A02D-0A3B-4621-AA13-F840D36848C5/ShopChristmas.app/www/index.html#/login
+2015-12-18 15:52:29.580 ShopChristmas[51680:702501] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/B7103C3E-B21B-4316-97BD-CA9BFF905860/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:52:29.629 ShopChristmas[51680:702501] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:52:29.629 ShopChristmas[51680:702501] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:52:29.630 ShopChristmas[51680:702501] Unlimited access to network resources
+2015-12-18 15:52:29.748 ShopChristmas[51680:702501] Resetting plugins due to page load.
+2015-12-18 15:52:29.872 ShopChristmas[51680:702501] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/DF47AD0A-8F3A-444E-A198-DC5A5F42C08E/ShopChristmas.app/www/index.html#/login
+2015-12-18 15:53:02.679 ShopChristmas[51971:703238] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/DE5EA436-7D28-48B1-A6AE-C438373C1962/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:53:02.732 ShopChristmas[51971:703238] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:53:02.732 ShopChristmas[51971:703238] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:53:02.733 ShopChristmas[51971:703238] Unlimited access to network resources
+2015-12-18 15:53:02.845 ShopChristmas[51971:703238] Resetting plugins due to page load.
+2015-12-18 15:53:02.972 ShopChristmas[51971:703238] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/45859EEC-5624-463D-A731-43D7FD07D81A/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 15:53:15.212 ShopChristmas[52254:703811] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/FE540891-064D-4839-A346-B16D5DD0C546/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:53:15.274 ShopChristmas[52254:703811] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:53:15.274 ShopChristmas[52254:703811] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:53:15.275 ShopChristmas[52254:703811] Unlimited access to network resources
+2015-12-18 15:53:15.380 ShopChristmas[52254:703811] Resetting plugins due to page load.
+2015-12-18 15:53:15.515 ShopChristmas[52254:703811] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/BAE8C65C-623F-424A-A73E-1CA5CFC0BE68/ShopChristmas.app/www/index.html#/sign-in
+2015-12-18 15:53:42.737 ShopChristmas[52543:704633] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/75E23613-6DBB-4D60-874B-D8C3A86AC305/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:53:42.784 ShopChristmas[52543:704633] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:53:42.784 ShopChristmas[52543:704633] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:53:42.785 ShopChristmas[52543:704633] Unlimited access to network resources
+2015-12-18 15:53:42.899 ShopChristmas[52543:704633] Resetting plugins due to page load.
+2015-12-18 15:53:43.029 ShopChristmas[52543:704633] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/7D2DE09B-E889-4E46-950E-4C465B779D29/ShopChristmas.app/www/index.html#/login
+2015-12-18 15:54:21.473 ShopChristmas[52834:705342] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/08F38224-93D7-4999-8888-C0BB1896FE4E/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:54:21.526 ShopChristmas[52834:705342] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:54:21.526 ShopChristmas[52834:705342] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:54:21.527 ShopChristmas[52834:705342] Unlimited access to network resources
+2015-12-18 15:54:21.638 ShopChristmas[52834:705342] Resetting plugins due to page load.
+2015-12-18 15:54:21.769 ShopChristmas[52834:705342] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/C6032F49-D318-4584-B269-4A98B3C3DA39/ShopChristmas.app/www/index.html#/login
+2015-12-18 15:54:48.304 ShopChristmas[53124:706057] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/02B6FCAC-EC0D-41FB-B962-030D7A722411/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:54:48.350 ShopChristmas[53124:706057] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:54:48.350 ShopChristmas[53124:706057] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:54:48.351 ShopChristmas[53124:706057] Unlimited access to network resources
+2015-12-18 15:54:48.465 ShopChristmas[53124:706057] Resetting plugins due to page load.
+2015-12-18 15:54:48.601 ShopChristmas[53124:706057] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/F9FA11C1-3AF1-45C8-B42F-5898389C809B/ShopChristmas.app/www/index.html#/login
+2015-12-18 15:55:01.119 ShopChristmas[53413:706680] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/1081722B-7684-4227-B3B6-3F3708BFA443/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:55:01.165 ShopChristmas[53413:706680] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:55:01.165 ShopChristmas[53413:706680] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:55:01.166 ShopChristmas[53413:706680] Unlimited access to network resources
+2015-12-18 15:55:01.276 ShopChristmas[53413:706680] Resetting plugins due to page load.
+2015-12-18 15:55:01.407 ShopChristmas[53413:706680] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/23159D96-B1C6-48B6-979A-490C9A2A47A4/ShopChristmas.app/www/index.html#/login
+2015-12-18 15:55:20.250 ShopChristmas[53700:707320] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/039ED921-7D15-49DE-BC97-5DBC8F7D35B4/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:55:20.298 ShopChristmas[53700:707320] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:55:20.299 ShopChristmas[53700:707320] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:55:20.300 ShopChristmas[53700:707320] Unlimited access to network resources
+2015-12-18 15:55:20.411 ShopChristmas[53700:707320] Resetting plugins due to page load.
+2015-12-18 15:55:20.545 ShopChristmas[53700:707320] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/BD60A23E-A2AB-4613-9C93-A0BAA503FD2F/ShopChristmas.app/www/index.html#/login
+2015-12-18 15:55:44.040 ShopChristmas[53987:707947] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/5405D523-1202-4416-917A-FFB531A8D0EA/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:55:44.088 ShopChristmas[53987:707947] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:55:44.088 ShopChristmas[53987:707947] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:55:44.090 ShopChristmas[53987:707947] Unlimited access to network resources
+2015-12-18 15:55:44.205 ShopChristmas[53987:707947] Resetting plugins due to page load.
+2015-12-18 15:55:44.338 ShopChristmas[53987:707947] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/6CB484DE-4799-46B1-BBD9-3A6C085499B3/ShopChristmas.app/www/index.html#/login
+2015-12-18 15:56:54.850 ShopChristmas[54292:708958] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/A41D988C-E511-4F49-9EF0-34596552877D/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:56:54.902 ShopChristmas[54292:708958] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:56:54.902 ShopChristmas[54292:708958] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:56:54.903 ShopChristmas[54292:708958] Unlimited access to network resources
+2015-12-18 15:56:55.018 ShopChristmas[54292:708958] Resetting plugins due to page load.
+2015-12-18 15:56:55.146 ShopChristmas[54292:708958] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/07B3D474-D5FE-4F7A-91F1-0AC9EC601B23/ShopChristmas.app/www/index.html#/login
+2015-12-18 15:57:46.995 ShopChristmas[54589:709713] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/46765618-B5AB-446C-A081-5D9743F9667A/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:57:47.042 ShopChristmas[54589:709713] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:57:47.042 ShopChristmas[54589:709713] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:57:47.043 ShopChristmas[54589:709713] Unlimited access to network resources
+2015-12-18 15:57:47.156 ShopChristmas[54589:709713] Resetting plugins due to page load.
+2015-12-18 15:57:47.295 ShopChristmas[54589:709713] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/BE5B2938-8C33-4A20-A89A-640ECAA175DE/ShopChristmas.app/www/index.html#/login
+2015-12-18 15:59:11.254 ShopChristmas[54896:710721] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/EC1A49AB-1F9D-4B62-8B56-45FB1C47D538/Library/Cookies/Cookies.binarycookies
+2015-12-18 15:59:11.301 ShopChristmas[54896:710721] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 15:59:11.301 ShopChristmas[54896:710721] Multi-tasking -> Device: YES, App: YES
+2015-12-18 15:59:11.302 ShopChristmas[54896:710721] Unlimited access to network resources
+2015-12-18 15:59:11.414 ShopChristmas[54896:710721] Resetting plugins due to page load.
+2015-12-18 15:59:11.546 ShopChristmas[54896:710721] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/09E52164-F917-4C86-BCA0-F83921510CFB/ShopChristmas.app/www/index.html#/login
+2015-12-18 16:00:33.790 ShopChristmas[55208:711653] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/4EDF232E-8FDF-4536-A6DF-A541D2E0C63F/Library/Cookies/Cookies.binarycookies
+2015-12-18 16:00:33.843 ShopChristmas[55208:711653] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 16:00:33.843 ShopChristmas[55208:711653] Multi-tasking -> Device: YES, App: YES
+2015-12-18 16:00:33.844 ShopChristmas[55208:711653] Unlimited access to network resources
+2015-12-18 16:00:33.952 ShopChristmas[55208:711653] Resetting plugins due to page load.
+2015-12-18 16:00:34.086 ShopChristmas[55208:711653] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/CFED280C-475D-4EB8-90C6-E2435E7693FB/ShopChristmas.app/www/index.html#/login
+2015-12-18 16:07:09.008 ShopChristmas[55596:714217] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/4E4D59EE-30F2-46CD-8510-7713936A8E33/Library/Cookies/Cookies.binarycookies
+2015-12-18 16:07:09.054 ShopChristmas[55596:714217] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 16:07:09.054 ShopChristmas[55596:714217] Multi-tasking -> Device: YES, App: YES
+2015-12-18 16:07:09.055 ShopChristmas[55596:714217] Unlimited access to network resources
+2015-12-18 16:07:09.175 ShopChristmas[55596:714217] Resetting plugins due to page load.
+2015-12-18 16:07:09.306 ShopChristmas[55596:714217] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/E68CE712-467E-4617-A58A-F98D1EABC356/ShopChristmas.app/www/index.html#/login
+2015-12-18 16:11:52.205 ShopChristmas[55953:716523] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/8ACA6677-78B8-496D-AF5C-714499EB8B3D/Library/Cookies/Cookies.binarycookies
+2015-12-18 16:11:52.252 ShopChristmas[55953:716523] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 16:11:52.253 ShopChristmas[55953:716523] Multi-tasking -> Device: YES, App: YES
+2015-12-18 16:11:52.254 ShopChristmas[55953:716523] Unlimited access to network resources
+2015-12-18 16:11:52.367 ShopChristmas[55953:716523] Resetting plugins due to page load.
+2015-12-18 16:11:52.493 ShopChristmas[55953:716523] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/047C42BE-3850-46A0-8943-358B03B5CA0B/ShopChristmas.app/www/index.html#/login
+2015-12-18 16:16:13.778 ShopChristmas[56300:718477] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/987BFE71-F7AF-474E-AD74-7149C4B19409/Library/Cookies/Cookies.binarycookies
+2015-12-18 16:16:13.825 ShopChristmas[56300:718477] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 16:16:13.826 ShopChristmas[56300:718477] Multi-tasking -> Device: YES, App: YES
+2015-12-18 16:16:13.827 ShopChristmas[56300:718477] Unlimited access to network resources
+2015-12-18 16:16:13.944 ShopChristmas[56300:718477] Resetting plugins due to page load.
+2015-12-18 16:16:14.074 ShopChristmas[56300:718477] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/4A8BD11C-060C-4D5E-A565-4081BA24DC97/ShopChristmas.app/www/index.html#/login
+2015-12-18 16:16:33.001 ShopChristmas[56553:719061] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/C816E00A-59A8-4E34-B7FC-7938AA874B8E/Library/Cookies/Cookies.binarycookies
+2015-12-18 16:16:33.050 ShopChristmas[56553:719061] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 16:16:33.050 ShopChristmas[56553:719061] Multi-tasking -> Device: YES, App: YES
+2015-12-18 16:16:33.051 ShopChristmas[56553:719061] Unlimited access to network resources
+2015-12-18 16:16:33.161 ShopChristmas[56553:719061] Resetting plugins due to page load.
+2015-12-18 16:16:33.292 ShopChristmas[56553:719061] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/8B15C2CF-B6C3-4DF5-9380-5B8B4FB2DEDA/ShopChristmas.app/www/index.html#/login
+2015-12-18 16:21:32.720 ShopChristmas[56923:721522] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/7C10DFD0-3E0A-4D53-9BD9-AE4329031473/Library/Cookies/Cookies.binarycookies
+2015-12-18 16:21:32.770 ShopChristmas[56923:721522] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 16:21:32.771 ShopChristmas[56923:721522] Multi-tasking -> Device: YES, App: YES
+2015-12-18 16:21:32.772 ShopChristmas[56923:721522] Unlimited access to network resources
+2015-12-18 16:21:32.885 ShopChristmas[56923:721522] Resetting plugins due to page load.
+2015-12-18 16:21:33.015 ShopChristmas[56923:721522] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/8D009780-6AAC-425E-85E2-059CAFAF6B05/ShopChristmas.app/www/index.html#/login
+2015-12-18 16:31:42.792 ShopChristmas[57446:726437] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Data/Application/C2BC163D-DA90-4137-A7E4-C2BF798C5AE2/Library/Cookies/Cookies.binarycookies
+2015-12-18 16:31:42.875 ShopChristmas[57446:726437] Apache Cordova native platform version 3.8.0 is starting.
+2015-12-18 16:31:42.876 ShopChristmas[57446:726437] Multi-tasking -> Device: YES, App: YES
+2015-12-18 16:31:42.877 ShopChristmas[57446:726437] Unlimited access to network resources
+2015-12-18 16:31:43.174 ShopChristmas[57446:726437] Resetting plugins due to page load.
+2015-12-18 16:31:43.302 ShopChristmas[57446:726437] Finished load of: file:///Users/mike/Library/Developer/CoreSimulator/Devices/14C358E2-0F33-409B-80C4-1B3148300381/data/Containers/Bundle/Application/E0D8B405-C9CC-4346-A9B4-BAD72E4ABE73/ShopChristmas.app/www/index.html#/login
